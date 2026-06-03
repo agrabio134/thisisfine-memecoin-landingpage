@@ -179,7 +179,7 @@ function Index() {
             "THIS IS FINE OG"
           </div>
         </div>
-      </section> */}
+      </section> */} 
 
       {/* CHART */}
       <section id="chart" className="mx-auto max-w-6xl px-4 pb-20 sm:px-8">
